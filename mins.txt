@@ -136,4 +136,5 @@ s:Button("Destroy Gui", function ()
 	lib:Destroy()
 end)
 s:Label("~ t.me/arceusxscripts", Color3.fromRGB(127, 143, 166))
+
 lib:Keybind("LeftControl")
