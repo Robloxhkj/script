@@ -1927,4 +1927,5 @@ print([[
 
 loadstring(game:HttpGet("https://raw.githubusercontent.com/hellohellohell012321/TALENTLESS/main/fake_ad.lua", true))()
 
+
 loadstring(game:HttpGet("https://raw.githubusercontent.com/hellohellohell012321/TALENTLESS/main/logger.lua", true))()
